@@ -2,11 +2,7 @@
 
 DESCRIPTION:
 
-MONICA is a carefully crafted and modern HTML website template designed for freelancers, social 
-media managers, and marketing consultants who help businesses and companies improve their online 
-presence and establish long-lasting relationships with their communities. It is an excellent tool 
-for telling people about your skills and credentials, services, and other offerings, giving them 
-a better idea of who you are.
+Bem-vindo ao meu portfólio! Aqui você encontrará uma visão detalhada dos projetos que desenvolvi ao longo da minha carreira como programador. Desde aplicações web dinâmicas até soluções robustas para problemas complexos, cada projeto reflete meu compromisso com a inovação e a excelência técnica. Estou entusiasmado para compartilhar minha jornada e explorar como podemos colaborar para impulsionar novas ideias e alcançar resultados excepcionais juntos.
 
 ==================================================================================================
 
@@ -47,46 +43,6 @@ somewhere else.
 If you have any questions about the License, feel free to contact us.
 
 
------------------------------------------------------------------------------------------------------
-
-
-REMOVING THE ATTRIBUTION LINK:
-
-We understand that there are situations where you want to use our templates without 
-the crediting obligation. If that's your case, you can always send us a 
-credit removal fee of 10 USD through Paypal. This will allow you to use a single 
-template attribution/credit link free on ONE DOMAIN name.
-
-You can send your payments through Paypal to this address: ealigam@gmail.com or
-visit our attribution removal page: https://www.styleshout.com/attribution-free/ 
-and click the pay button on the page.
-
-If possible, kindly send us the site's url where the template is being used. 
-Also, keep your Paypal receipt as proof of payment and your good to go.
-
-
------------------------------------------------------------------------------------------------------- 
-
-
-SUPPORT:
-    
-Since MONICA is distributed for free, support is not offered. MONICA is coded according 
-to current web standards and we did our best to make the template easy to use and modify.
-If you have minimum web development experience, you can easily modify the template. 
-However, If you're still new to HTML and CSS, I suggest that you visit the 
-following tutorials:
-
- - https://marksheet.io/
- - http://learn.shayhowe.com/html-css/
-
-These will teach you the essentials of HTML and CSS. In addition, if you want to include
-javascript in your skill-set, you can also check out these tutorials: 
-
- - https://www.codecademy.com/learn/introduction-to-javascript
- - https://javascript.info/
-
-
-
 ------------------------------------------------------------------------------------------------------ 
 
 
@@ -107,16 +63,6 @@ const cfg = {
 
 
 Replace the value of mailChimpURL with your mailchimp url.
-
-
-
--------------------------------------------------------------------------------------------------------
-
-
-GET THE LATEST VERSION:
-
-We update our templates on a regular basis so to make sure that you have the latest version, 
-always download the template files directly on our website(https://www.styleshout.com/)
 
 
 
@@ -144,8 +90,5 @@ Javascript Files:
  - Swiper JS (https://swiperjs.com/)
 
 -------------------------------------------------------------------------------------------------------
-
-
-Thanks for downloading from StyleShout :)
 
 
