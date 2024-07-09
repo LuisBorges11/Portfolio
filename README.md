@@ -38,7 +38,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE) para 
 
 ---
 
-Para mais informações, visite o [portfólio online](https://127.0.0.1:5500/index.html).
+Para mais informações, visite o [portfólio online](https://portfolio-luisborges.netlify.app).
 - LinkedIn: [Luis Borges](https://www.linkedin.com/in/luis-borges-123456789/)
 - Email: filipefigueiredo39@gmail.com
   
